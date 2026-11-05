@@ -1,0 +1,17 @@
+Change Physical Footprint: Designator=C1 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C2 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C3 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=C4 Old Footprint=CAP_0603 New Footprint=CAP_0603
+Change Physical Footprint: Designator=F1 Old Footprint=MF-PSMF050X New Footprint=MF-PSMF050X
+Change Physical Footprint: Designator=J1 Old Footprint=TSW-102-07-G-S New Footprint=TSW-102-07-G-S
+Change Physical Footprint: Designator=J2 Old Footprint=USBC_POWERDELIVERY_HORIZONTAL New Footprint=USBC_POWERDELIVERY_HORIZONTAL
+Change Physical Footprint: Designator=J3 Old Footprint=10129381-912002BLF New Footprint=10129381-912002BLF
+Change Physical Footprint: Designator=J4 Old Footprint=TSW-102-07-G-S New Footprint=TSW-102-07-G-S
+Change Physical Footprint: Designator=J5 Old Footprint=TSW-102-07-G-S New Footprint=TSW-102-07-G-S
+Change Physical Footprint: Designator=R1 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Physical Footprint: Designator=R2 Old Footprint=RES_0603 New Footprint=RES_0603
+Change Physical Footprint: Designator=TP1 Old Footprint=TestPoint_0.4mm_SMD New Footprint=TestPoint_0.4mm_SMD
+Change Physical Footprint: Designator=TP2 Old Footprint=TestPoint_0.4mm_SMD New Footprint=TestPoint_0.4mm_SMD
+Change Physical Footprint: Designator=TP3 Old Footprint=TestPoint_0.4mm_SMD New Footprint=TestPoint_0.4mm_SMD
+Change Physical Footprint: Designator=U1 Old Footprint=AP2112K-3.3TRG1 New Footprint=AP2112K-3.3TRG1
+Change Physical Footprint: Designator=U2 Old Footprint=AP2112K-1.8TRG1 New Footprint=AP2112K-1.8TRG1

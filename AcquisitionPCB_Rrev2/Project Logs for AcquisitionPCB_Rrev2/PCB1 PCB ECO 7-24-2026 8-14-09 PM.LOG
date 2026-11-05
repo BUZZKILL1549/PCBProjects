@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=C18-1
+Change Component Footprint: Designator=C18 Old Footprint=CAP_298W-M_VSS New Footprint=CAPMP6032X280N
+Change component parameters: Designator = "C18" ("C18"); Footprint = "CAP_298W-M_VSS"; UniqueID = "\KGMZAORF" ("\KGMZAORF")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/593D107X9010C2TE3/Vishay/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay Sprague"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "593D107X9010C2TE3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/593D107X9010C2TE3/Vishay/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=NetC18_1 Pin=C18-1
+Added Pin To Net: NetName=NetC18_1 Pin=U4-28
+Added Net: Name=NetC18_1

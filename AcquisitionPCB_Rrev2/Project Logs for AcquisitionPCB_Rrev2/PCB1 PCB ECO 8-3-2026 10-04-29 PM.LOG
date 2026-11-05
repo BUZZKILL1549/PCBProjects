@@ -1,0 +1,47 @@
+Change Component Description : Designator=C12 Old Description=0603 X7R ceramic capacitor, 100V 1.5nF New Description=0603 X7R ceramic capacitor, 100V 1.5nF | KEMET C0603C152K1RACTU
+Change Component Description : Designator=C10 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C13 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C16 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C19 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C20 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C21 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C22 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C23 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C27 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=R5 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R12 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R13 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R14 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R15 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R16 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R17 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R18 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R19 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R20 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R6 Old Description=Precision Thin Film Smnt Resistor 0603 Case 1MOhm +/-0.1% 0.063W +/-25ppm/C New Description=Precision Thin Film Smnt Resistor 0603 Case 1MOhm +/-0.1% 0.063W +/-25ppm/C | TE Connectivity CPF0603B1M0E
+Change Component Description : Designator=R3 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R4 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R8 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R9 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R10 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R11 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Added Component: Designator=C7(CAPC1608X90)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TACL106K006RTA/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TACL106K006RTA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "603-2 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TACL106K006RTA/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAPC1608X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3V3 Pin=C8-2
+Added Member To Class: ClassName=Sheet1 Member=Component C7 10uF
+Added Member To Class: ClassName=Sheet1 Member=Component C8 100nF

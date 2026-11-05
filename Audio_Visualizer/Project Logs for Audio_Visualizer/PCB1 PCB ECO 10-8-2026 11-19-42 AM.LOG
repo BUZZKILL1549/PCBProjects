@@ -1,0 +1,26 @@
+Added Component: Designator=B?(BUTTON_NO_REAL)
+Added Pin To Net: NetName=3.3V Pin=B?-1
+Added Pin To Net: NetName=3.3V Pin=B?-2
+Added Pin To Net: NetName=GND Pin=B?-3
+Added Pin To Net: NetName=GND Pin=B?-4
+Add Pin To Net: Unknown Pin: Pin J3-1
+Add Pin To Net: Unknown Pin: Pin J3-2
+Add Pin To Net: Unknown Pin: Pin J4-1
+Add Pin To Net: Unknown Pin: Pin J4-3
+Add Pin To Net: Unknown Pin: Pin J5-1
+Add Pin To Net: Unknown Pin: Pin TP1-
+Add Pin To Net: Unknown Pin: Pin TP2-
+Add Pin To Net: Unknown Pin: Pin TP3-
+Add Pin To Net: Unknown Pin: Pin TP4-
+Add Pin To Net: Unknown Pin: Pin TP5-
+Add Pin To Net: Unknown Pin: Pin TP6-
+Add Pin To Net: Unknown Pin: Pin TP7-
+Add Pin To Net: Unknown Pin: Pin TP8-
+Add Pin To Net: Unknown Pin: Pin TP9-
+Add Pin To Net: Unknown Pin: Pin TP10-
+Add Pin To Net: Unknown Pin: Pin TP11-
+Add Pin To Net: Unknown Pin: Pin TP12-
+Add Pin To Net: Unknown Pin: Pin TP13-
+Add Pin To Net: Unknown Pin: Pin TP14-
+Add Pin To Net: Unknown Pin: Pin TP15-
+Added Member To Class: ClassName=Sheet1 Member=Component B? B3FS-1000P

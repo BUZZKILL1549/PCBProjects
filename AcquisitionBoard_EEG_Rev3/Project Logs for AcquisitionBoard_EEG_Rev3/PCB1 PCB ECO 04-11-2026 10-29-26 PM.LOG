@@ -1,0 +1,23 @@
+Added Component: Designator=U1(LM1117MPX-3.3/NOPB)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/gpn/lm1117"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Voltage"; Value = "4.5V - 18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "LM1117MPX-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "800mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "3.3V Fixed"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 3"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 4"; Value = "Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "926-LM1117MPX3.3NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "LM1117MPX-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 3"; Value = "LM1117MPX-3.3/NOPBCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 4"; Value = "LM1117MPX-3.3/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Topology"; Value = "LDO"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=3V3 Pin=U1-2
+Added Pin To Net: NetName=VBUS Pin=U1-3
+Added Pin To Net: NetName=3V3 Pin=U1-4
+Added Member To Class: ClassName=Sheet1 Member=Component U1 LM1117MPX-3.3/NOPB

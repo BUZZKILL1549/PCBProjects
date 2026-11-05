@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=IN4N_RAW Pin=J2-01
+Removed Pin From Net: NetName=IN3N_RAW Pin=J2-02
+Removed Pin From Net: NetName=IN2N_RAW Pin=J2-03
+Removed Pin From Net: NetName=IN1N_RAW Pin=J2-04
+Removed Pin From Net: NetName=IN1P_RAW Pin=P1-1
+Removed Pin From Net: NetName=IN2P_RAW Pin=P1-2
+Removed Pin From Net: NetName=IN3P_RAW Pin=P1-3
+Removed Pin From Net: NetName=IN4P_RAW Pin=P1-4
+Removed Pin From Net: NetName=REF_ELECTRODE Pin=P1-5
+Removed Pin From Net: NetName=BIAS_ELECTRODE Pin=P1-6
+Removed Member From Class: ClassName=Sheet1 Member=J2
+Change Component Footprint: Designator=P1 Old Footprint=SMTC-TSW-106-23-X-S New Footprint=SMTC-MTMM-105-04-X-D-135
+Change Component Comment : Designator=P1 Old Comment=TSW-106-23-L-S New Comment=MTMM-105-04-F-D-135
+Change Managed Component Library Link : Designator=P1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=AC058CD9-EE70-4664-B48B-6178D75883FE New ItemGUID=0CD174CB-C9F0-420F-A7C3-40921DAD786C Old RevisionGUID=1771B635-BA04-40F7-B23A-B306365BBABE New RevisionGUID=67B4FDB4-649E-4F90-B7A4-7F0D18FB4AAA
+Change component parameters: Designator = "P1" ("P1"); Footprint = "SMTC-TSW-106-23-X-S"; UniqueID = "\FCTODPHK" ("\FCTODPHK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://d2a072wq521u33.cloudfront.net/catalog_english//MTMM_TH.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/MTMM-1XX-XX-XX-X-XXX-XX-XXX-MKT.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "2mm Terminal Strip Assembly"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "MTMM-105-04-X-D-135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "AE, 12/1993"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "MTMM-105-04-F-D-135"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Range"; Value = "-55 to 125 degC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=REF_ELECTRODE Pin=P1-1
+Added Pin To Net: NetName=BIAS_ELECTRODE Pin=P1-2
+Added Pin To Net: NetName=IN4P_RAW Pin=P1-3
+Added Pin To Net: NetName=IN4N_RAW Pin=P1-4
+Added Pin To Net: NetName=IN3P_RAW Pin=P1-5
+Added Pin To Net: NetName=IN3N_RAW Pin=P1-6
+Added Pin To Net: NetName=IN2P_RAW Pin=P1-7
+Added Pin To Net: NetName=IN2N_RAW Pin=P1-8
+Added Pin To Net: NetName=IN1P_RAW Pin=P1-9
+Added Pin To Net: NetName=IN1N_RAW Pin=P1-10

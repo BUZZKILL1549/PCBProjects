@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=REF_ELECTRODE Pin=J3-9
+Removed Pin From Net: NetName=NetJ3_1 Pin=R13-1
+Removed Pin From Net: NetName=NetJ3_3 Pin=R17-1
+Removed Pin From Net: NetName=NetJ3_4 Pin=R19-1
+Removed Pin From Net: NetName=NetJ3_4 Pin=R20-1
+Removed Pin From Net: NetName=NetJ3_5 Pin=R21-1
+Removed Pin From Net: NetName=NetJ3_6 Pin=R23-1
+Removed Pin From Net: NetName=NetJ3_6 Pin=R24-1
+Removed Pin From Net: NetName=NetJ3_7 Pin=R25-1
+Removed Pin From Net: NetName=NetJ3_8 Pin=R28-1
+Removed Pin From Net: NetName=NetJ3_10 Pin=R29-2
+Removed Pin From Net: NetName=NetJ3_8 Pin=R30-1
+Added Pin To Net: NetName=REF_ELECTRODE Pin=J3-2
+Added Pin To Net: NetName=NetJ3_10 Pin=R13-1
+Added Pin To Net: NetName=NetJ3_8 Pin=R17-1
+Added Pin To Net: NetName=NetJ3_7 Pin=R19-1
+Added Pin To Net: NetName=NetJ3_7 Pin=R20-1
+Added Pin To Net: NetName=NetJ3_6 Pin=R21-1
+Added Pin To Net: NetName=NetJ3_5 Pin=R23-1
+Added Pin To Net: NetName=NetJ3_5 Pin=R24-1
+Added Pin To Net: NetName=NetJ3_4 Pin=R25-1
+Added Pin To Net: NetName=NetJ3_3 Pin=R28-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R29-2
+Added Pin To Net: NetName=NetJ3_3 Pin=R30-1
+Added Pin To Net: NetName=NetJ3_9 Pin=J3-9
+Added Pin To Net: NetName=NetJ3_9 Pin=R15-1
+Added Pin To Net: NetName=NetJ3_9 Pin=R16-1
+Added Net: Name=NetJ3_9
+Added Member To Class: ClassName=Sheet1 Member=Component C31 4.7nF

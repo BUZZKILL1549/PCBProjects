@@ -1,0 +1,30 @@
+Altium Designer Pick and Place Locations
+C:\Users\aushv\OneDrive\Documents\CS PROJECTS\Altium\5V_STEPDOWN\Project Outputs for 5V_STEPDOWN\Pick Place for PCB1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       19/10/26
+Time:       16:03
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment                   Layer    Footprint                     Center-X(mil) Center-Y(mil) Rotation Description                                 
+U2         AP2112K-1.8TRG1           TopLayer AP2112K-1.8TRG1               2100.000      2835.000      0        "600 mA 1.8 V LDO"                          
+U1         AP2112K-3.3TRG1           TopLayer AP2112K-3.3TRG1               2099.134      3137.401      0        "600 mA 3.3 V LDO"                          
+TP3        TestPoint_0.4mm           TopLayer TestPoint_0.4mm_SMD           2300.000      2875.000      90       "SMD Testpoint. No component to be bought." 
+TP2        TestPoint_0.4mm           TopLayer TestPoint_0.4mm_SMD           2300.000      3175.000      90       "SMD Testpoint. No component to be bought." 
+TP1        TestPoint_0.4mm           TopLayer TestPoint_0.4mm_SMD           2305.000      3380.000      90       "SMD Testpoint. No component to be bought." 
+R2         5.1K                      TopLayer RES_0603                      1625.000      3045.000      0        "5.1 kOhm 1% 0603 resistor"                 
+R1         5.1K                      TopLayer RES_0603                      1625.512      3110.000      0        "5.1 kOhm 1% 0603 resistor"                 
+J5         TSW-102-07-G-S            TopLayer TSW-102-07-G-S                1832.500      2822.500      270      "1x2 Headers 2.54 Pitch"                    
+J4         TSW-102-07-G-S            TopLayer TSW-102-07-G-S                1835.000      3125.000      270      "1x2 Headers 2.54 Pitch"                    
+J3         10129381-912002BLF        TopLayer 10129381-912002BLF            2530.000      3065.000      270      "2x6 Headers 2.54 Pitch"                    
+J2         USBC_POWERONLY_Horizontal TopLayer USBC_POWERDELIVERY_HORIZONTAL 1369.882      3080.000      270      "USB-C, 6 Contact Power Delivery Port"      
+J1         TSW-102-07-G-S            TopLayer TSW-102-07-G-S                2100.000      3380.000      180      "1x2 Headers 2.54 Pitch"                    
+F1         MF-PSMF050X-2             TopLayer MF-PSMF050X                   1638.307      3190.000      0        "PPTC 1V 0.5A"                              
+C4         1uF                       TopLayer CAP_0603                      2230.000      2847.441      90       "1 uF 10% 0603 X7R MLCC"                    
+C3         1uF                       TopLayer CAP_0603                      1970.000      2847.441      90       "1 uF 10% 0603 X7R MLCC"                    
+C2         1uF                       TopLayer CAP_0603                      1970.000      3150.000      90       "1 uF 10% 0603 X7R MLCC"                    
+C1         1uF                       TopLayer CAP_0603                      2230.000      3147.441      90       "1 uF 10% 0603 X7R MLCC"                    

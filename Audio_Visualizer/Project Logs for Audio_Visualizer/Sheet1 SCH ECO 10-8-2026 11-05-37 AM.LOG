@@ -1,0 +1,9 @@
+Remove Pin=J3-1 From Net=3.3V
+Remove Pin=J3-3 From Net=SCL
+Remove Pin=J3-4 From Net=SDA
+Remove Pin=J4-2 From Net=DATA_HEADERPIN
+Remove Pin=J5-2 From Net=TX
+Remove Pin=J5-3 From Net=RX
+Change Net Color : Net Name= 3.3V Old Net Color=Default New Net Color=RGB(110, 110, 255)
+Change Net Color : Net Name= 5V Old Net Color=Default New Net Color=RGB(255, 110, 110)
+Change Net Color : Net Name= GND Old Net Color=Default New Net Color=RGB(110, 255, 110)

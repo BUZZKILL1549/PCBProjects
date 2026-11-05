@@ -1,0 +1,189 @@
+Removed Pin From Net: NetName=3V3 Pin=U4-52
+Change Component Description : Designator=C12 Old Description=0603 X7R ceramic capacitor, 100V 1.5nF New Description=0603 X7R ceramic capacitor, 100V 1.5nF | KEMET C0603C152K1RACTU
+Change Component Description : Designator=C10 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C13 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C16 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C19 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C20 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C21 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C22 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C23 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=C27 Old Description=Capacitor MLCC 0603 100nF 16V New Description=Capacitor MLCC 0603 100nF 16V | AVX 0603YC104KAZ2A
+Change Component Description : Designator=R5 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R12 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R13 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R14 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R15 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R16 Old Description=Direnç, AS 0603 1k %1 100mW TC100 New Description=Direnç, AS 0603 1k %1 100mW TC100 | Bourns CR0603AFX-1001EAS
+Change Component Description : Designator=R6 Old Description=Precision Thin Film Smnt Resistor 0603 Case 1MOhm +/-0.1% 0.063W +/-25ppm/C New Description=Precision Thin Film Smnt Resistor 0603 Case 1MOhm +/-0.1% 0.063W +/-25ppm/C | TE Connectivity CPF0603B1M0E
+Change Component Description : Designator=R3 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R4 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R8 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R9 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R10 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=R11 Old Description=Resistor, AS 0603 10k 1% 100mW TC100 New Description=Resistor, AS 0603 10k 1% 100mW TC100 | Bourns CR0603AFX-1002EAS
+Change Component Description : Designator=C1 Old Description=TACmicrochip,10 uF,6.3 V New Description=TACmicrochip,10 uF,6.3 V | AVX TACL106K006RTA
+Change Component Description : Designator=C2 Old Description=TACmicrochip,10 uF,6.3 V New Description=TACmicrochip,10 uF,6.3 V | AVX TACL106K006RTA
+Added Component: Designator=C31(CAPC1608X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 AVX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/0603YC104KAZ2A/AVX/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C32(CAPC1608X95)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1608X7R1C105K/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1608X7R1C105K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1608X7R1C105K/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C33(CAPC1608X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1608C0G1E472J080AA/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1608C0G1E472J080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1608C0G1E472J080AA/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C34(CAPC1608X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1608C0G1E472J080AA/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1608C0G1E472J080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1608C0G1E472J080AA/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C35(CAPC1608X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1608C0G1E472J080AA/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1608C0G1E472J080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1608C0G1E472J080AA/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C36(CAPC1608X90N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/C1608C0G1E472J080AA/TDK/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "C1608C0G1E472J080AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "1608 TDK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/C1608C0G1E472J080AA/TDK/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(SAMTEC_TS-104-T-A-1)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/TS-104-T-A-1/Samtec/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TS-104-T-A-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/TS-104-T-A-1/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TS-104-T-A-1/Samtec/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=OSC1(HC73)
+Add component (AddParameter): Name = "Category"; Value = "Crystals and Oscillators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://www.foxonline.com/pdfs/FXO_HC73.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.foxonline.com/pdfs/FXO_HC73.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Supply (Disable) (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Supply (Max)"; Value = "32mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DIGIKEY"; Value = "631-1182-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "2.048MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Stability"; Value = "�25ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Function"; Value = "Tri-State (Output Enable)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.055" (1.40mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Fox Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "FXO-HC736R-2.048"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40�C ~ 85�C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output"; Value = "HCMOS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "4-SMD, No Lead (DFN, LCC)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=1.51, 10=1.44, 50=1.2736, 100=1.2096, 500=1.1712 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.295" L x 0.205" W (7.50mm x 5.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1300"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "631-1182-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "XO (Standard)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "2.048Mhz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC1608X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CR0603AFX-1001EAS/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CR0603AFX-1001EAS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603-2 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CR0603AFX-1001EAS/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R18(RESC1608X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CR0603AFX-1001EAS/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CR0603AFX-1001EAS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603-2 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CR0603AFX-1001EAS/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R19(RESC1608X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CR0603AFX-1001EAS/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CR0603AFX-1001EAS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603-2 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CR0603AFX-1001EAS/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R20(RESC1608X55N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CR0603AFX-1001EAS/Bourns/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CR0603AFX-1001EAS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0603-2 Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CR0603AFX-1001EAS/Bourns/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C31-1
+Added Pin To Net: NetName=3V3 Pin=C31-2
+Added Pin To Net: NetName=3V3 Pin=C32-1
+Added Pin To Net: NetName=GND Pin=C32-2
+Added Pin To Net: NetName=GND Pin=C33-2
+Added Pin To Net: NetName=GND Pin=C34-2
+Added Pin To Net: NetName=GND Pin=C35-2
+Added Pin To Net: NetName=GND Pin=C36-2
+Added Pin To Net: NetName=3V3 Pin=OSC1-1
+Added Pin To Net: NetName=GND Pin=OSC1-2
+Added Pin To Net: NetName=3V3 Pin=OSC1-4
+Added Pin To Net: NetName=GND Pin=U4-37
+Added Pin To Net: NetName=IN1N Pin=C33-1
+Added Pin To Net: NetName=IN1N Pin=R17-2
+Added Pin To Net: NetName=IN1N Pin=U4-15
+Added Net: Name=IN1N
+Added Pin To Net: NetName=IN1N_RAW Pin=J2-04
+Added Pin To Net: NetName=IN1N_RAW Pin=R17-1
+Added Net: Name=IN1N_RAW
+Added Pin To Net: NetName=IN2N Pin=C35-1
+Added Pin To Net: NetName=IN2N Pin=R19-2
+Added Pin To Net: NetName=IN2N Pin=U4-13
+Added Net: Name=IN2N
+Added Pin To Net: NetName=IN2N_RAW Pin=J2-03
+Added Pin To Net: NetName=IN2N_RAW Pin=R19-1
+Added Net: Name=IN2N_RAW
+Added Pin To Net: NetName=IN3N Pin=C34-1
+Added Pin To Net: NetName=IN3N Pin=R18-2
+Added Pin To Net: NetName=IN3N Pin=U4-11
+Added Net: Name=IN3N
+Added Pin To Net: NetName=IN3N_RAW Pin=J2-02
+Added Pin To Net: NetName=IN3N_RAW Pin=R18-1
+Added Net: Name=IN3N_RAW
+Added Pin To Net: NetName=IN4N Pin=C36-1
+Added Pin To Net: NetName=IN4N Pin=R20-2
+Added Pin To Net: NetName=IN4N Pin=U4-9
+Added Net: Name=IN4N
+Added Pin To Net: NetName=IN4N_RAW Pin=J2-01
+Added Pin To Net: NetName=IN4N_RAW Pin=R20-1
+Added Net: Name=IN4N_RAW
+Added Pin To Net: NetName=NetOSC1_3 Pin=OSC1-3
+Added Pin To Net: NetName=NetOSC1_3 Pin=U4-37
+Added Net: Name=NetOSC1_3
+Added Member To Class: ClassName=Sheet1 Member=Component C31 100nF
+Added Member To Class: ClassName=Sheet1 Member=Component C32 1uF
+Added Member To Class: ClassName=Sheet1 Member=Component C33 4.7nF
+Added Member To Class: ClassName=Sheet1 Member=Component C34 4.7nF
+Added Member To Class: ClassName=Sheet1 Member=Component C35 4.7nF
+Added Member To Class: ClassName=Sheet1 Member=Component C36 4.7nF
+Added Member To Class: ClassName=Sheet1 Member=Component J2 TS-104-T-A-1
+Added Member To Class: ClassName=Sheet1 Member=Component OSC1 FXO-HC736
+Added Member To Class: ClassName=Sheet1 Member=Component R17 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R18 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R19 1k
+Added Member To Class: ClassName=Sheet1 Member=Component R20 1k
