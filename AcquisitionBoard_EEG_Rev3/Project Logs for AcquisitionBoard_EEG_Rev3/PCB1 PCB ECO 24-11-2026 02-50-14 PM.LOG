@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=J2 Old Footprint=SM12B-GHS-TB(LF)(SN) New Footprint=53261-1271
+Change Component Comment : Designator=J2 Old Comment=SM12B-GHS-TB(LF)(SN) New Comment=53261-1271
+Change component parameters: Designator = "J2" ("J2"); Footprint = "SM12B-GHS-TB(LF)(SN)"; UniqueID = "\KUYVADUS" ("\KUYVADUS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "53261-1271"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "538-53261-1271"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "WM7630DKR-ND"; VariantName = "[No Variations]"
